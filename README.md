@@ -1,2 +1,2 @@
 # corona-prediction
-simpel polynomial regressing applied on corona virus
+simpel polynomial regressing applied on corona virus current data
